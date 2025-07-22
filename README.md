@@ -1,7 +1,7 @@
 # Hi there, I'm Dave Perera! 👋
 
 <h3 align="center">Associate ML Engineer | Final Year CS Undergrad | AI, Deep Learning & Cloud Solutions Enthusiast</h3>
-<h4 align="center">🚀 LLMs, Agentic AI and Reinforcement Learning</h4>
+<h4 align="center">🎯 LLMs, Agentic AI and Reinforcement Learning</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;AI+%26+Deep+Learning+Enthusiast;Cloud+Solutions+Developer;Always+learning+new+things!" alt="Typing SVG" />
