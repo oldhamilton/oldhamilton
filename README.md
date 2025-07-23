@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Dave Perera
 
 <h3 align="center">Associate ML Engineer | Final Year CS Undergrad | AI, Deep Learning & Cloud Solutions Enthusiast</h3>
-<h4 align="center">🎯 LLMs, Agentic AI and Reinforcement Learning</h4>
+<h4 align="center">🎯 LLMs, Agentic AI, and Cloud Engineering</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B8860B&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;AI+%26+Deep+Learning+Enthusiast;Cloud+Solutions+Developer;Always+learning+new+things!" alt="Typing SVG" />
@@ -36,8 +36,9 @@
 - 🤖 **Robotic Navigation**: Path planning, obstacle avoidance, and SLAM with sensor fusion  
 - 👁️ **Computer Vision**: Object detection, image segmentation, and neural style transfer
 
-## 📈 GitHub Stats
 
+<!--
+## 📈 GitHub Stats
 <div align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=daveshenal&theme=cream&hide_border=true&background=FFF8DC&stroke=CD853F&ring=DAA520&fire=B8860B&currStreakLabel=8B4513&sideLabels=A0522D&currStreakNum=8B4513&sideNums=A0522D" 
@@ -64,7 +65,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 ## 🤝 Let's Connect!
 
