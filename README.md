@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d5M2h3eDl3ZWgxNDlpYzd4ZW5icXIxeTUxdzAwYTd5OWxuNzhicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KsBNnlWoxPE0Zdbh6V/giphy.gif" width="170"/>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d5M2h3eDl3ZWgxNDlpYzd4ZW5icXIxeTUxdzAwYTd5OWxuNzhicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KsBNnlWoxPE0Zdbh6V/giphy.gif" width="160"/>
 
 - 🎓 **Final Year Computer Science Undergraduate** passionate about cutting-edge AI technologies
 - 💼 **Associate ML Engineer** with hands-on experience in production ML systems
@@ -28,7 +28,7 @@
 
 ## 🎯 Current Focus Areas
 
-<img padding-right="50px" align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3h6MGt1eTlnczdsb202Mm05MWJtcXd6d2R4MXlhazcwN214aDJ1NCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/IZqFT8uUd5qPWxjasy/giphy.gif" width="170"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3h6MGt1eTlnczdsb202Mm05MWJtcXd6d2R4MXlhazcwN214aDJ1NCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/IZqFT8uUd5qPWxjasy/giphy.gif" width="170"/>
 
 - 🧠 **Large Language Models (LLMs)**: Fine-tuning, prompt engineering, and RAG systems  
 - ☁️ **MLOps**: Model deployment, monitoring, and CI/CD pipelines for ML systems  
