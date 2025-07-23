@@ -28,7 +28,7 @@
 
 ## 🎯 Current Focus Areas
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXlle3bludXp6cThnZDA0MGx0NXV2d2pnYThrbXU2NmFuZWJjOWZ6aSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/cpzRH0kMVEGV8bVxLn/giphy.gif" width="130"/>
+<img padding-right="50px" align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3h6MGt1eTlnczdsb202Mm05MWJtcXd6d2R4MXlhazcwN214aDJ1NCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/IZqFT8uUd5qPWxjasy/giphy.gif" width="170"/>
 
 - 🧠 **Large Language Models (LLMs)**: Fine-tuning, prompt engineering, and RAG systems  
 - ☁️ **MLOps**: Model deployment, monitoring, and CI/CD pipelines for ML systems  
