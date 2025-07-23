@@ -36,37 +36,6 @@
 - 🤖 **Robotic Navigation**: Path planning, obstacle avoidance, and SLAM with sensor fusion  
 - 👁️ **Computer Vision**: Object detection, image segmentation, and neural style transfer
 
-
-<!--
-## 📈 GitHub Stats
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=daveshenal&theme=cream&hide_border=true&background=FFF8DC&stroke=CD853F&ring=DAA520&fire=B8860B&currStreakLabel=8B4513&sideLabels=A0522D&currStreakNum=8B4513&sideNums=A0522D" 
-    alt="Dave's GitHub Streak" 
-    width="80%" 
-  />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=daveshenal&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=FFF8DC&title_color=B8860B&text_color=8B4513&icon_color=DAA520" 
-          alt="Dave's GitHub Stats" 
-          height="140"
-        />
-      </td>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveshenal&layout=compact&theme=default&hide_border=true&bg_color=FFF8DC&title_color=B8860B&text_color=8B4513" 
-          alt="Most Used Languages" 
-        />
-      </td>
-    </tr>
-  </table>
-</div> -->
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on innovative projects, discuss the latest in AI/ML, or share knowledge with the community. Feel free to reach out!
