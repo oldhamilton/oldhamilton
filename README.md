@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9yZ2FuaWRzN3UxaG9lb2hmNXh5dmgwbXM4NW9teDNxY3ZkYWtrZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QyJTDR8VkUtyKHNPm9/giphy.gif" width="200" style="vertical-align: top;"/>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNvOTByazMxMXMyMHd6OGM5enhkOGJnNXNuMGh5bzJzMTN5cTAxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif" width="200" style="vertical-align: top;"/>
 
 - 🎓 **Final Year Computer Science Undergraduate** passionate about cutting-edge AI technologies
 - 💼 **Associate ML Engineer** with hands-on experience in production ML systems
